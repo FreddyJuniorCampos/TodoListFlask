@@ -1,0 +1,7 @@
+html *{
+    font-family: 'Segoe UI';
+}
+
+img {
+   max-width: 250px; 
+}

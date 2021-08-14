@@ -1,1 +1,7 @@
-Flask
+flask
+flask-bootstrap
+flask-wtf
+flask-testing
+blinker
+firebase_admin
+flask-login
